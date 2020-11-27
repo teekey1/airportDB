@@ -1,0 +1,33 @@
+Medicine Hat	 Medicine Hat	Canada
+Fort St John	 Fort Saint     Canada
+Sioux Lookout	 Sioux Lookout	Canada
+Pangnirtung	 Pangnirtung	Canada
+Timiskaming 	 Timiskaming    Canada
+Prince George	 Prince George	Canada
+Terrace	 Terrace	Canada
+London	 London  Canada
+North Bay	 North Bay      Canada
+Calgary Intl	 Calgary        Canada
+Smithers	 Smithers	Canada
+Fort Nelson	 Fort Nelson	Canada
+Penticton	 Penticton	Canada
+Charlottetown Charlottetown	Canada
+Taloyoak	 Spence Bay	Canada
+Victoria Intl Victoria	Canada
+Lynn Lake	 Lynn Lake	Canada
+Swift Current Swift Current	Canada
+Churchill	 Churchill	Canada
+Goose Bay	 Goose Bay	Canada
+St Johns Intl St. John's	Canada
+Kapuskasing	 Kapuskasing	Canada
+Armstrong	 Armstrong	Canada
+Mont Joli	 Mont Joli	Canada
+Lester B 	 Toronto	Canada
+Downsview	 Toronto	Canada
+Gore Bay      Gore Bay	Canada
+Yellowknife	 Yellowknife	Canada
+Slave Lake	 Slave Lake	Canada
+Sandspit	 Sandspit	Canada
+Chris Hadfi	 Sarnia  Canada
+Port Hardy	 Port Hardy	Canada
+Whitecourt	 Whitecourt	Canada
